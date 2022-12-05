@@ -1,0 +1,55 @@
+{
+  "title":"Qual a tecnologia que você se identifica ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual modalidade você gosta ?",
+      "options":[
+        {"id": 1, "name":"Full-stack", "alias":"A"},
+        {"id": 2, "name":"Front-end", "alias":"B"},
+        {"id": 3, "name":"Back-end", "alias":"A"},
+        {"id": 4, "name":"DevOps", "alias":"B"},
+        {"id": 5, "name":"Dados", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual linguagem você aprendeu primeiro ?",
+      "options":[
+        {"id": 1, "name":"HTML", "alias":"A"},
+        {"id": 2, "name":"CSS", "alias":"A"},
+        {"id": 3, "name":"javaScript", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual framework achou mais difícil ?",
+      "options":[
+        {"id": 1, "name":"Nodejs", "alias":"B"},
+        {"id": 2, "name":"Reactjs", "alias":"A"},
+        {"id": 3, "name":"Angular", "alias":"A"},
+        {"id": 4, "name":"Vue", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco ?",
+      "options":[
+        {"id": 1, "name":"Angular", "alias":"A"},
+        {"id": 2, "name":"React", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual linguagem você quer se especializar primeiro ?",
+      "options":[
+        {"id": 1, "name":"JavaScript", "alias":"A"},
+        {"id": 2, "name":"Java", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um front-end!",
+    "B": "Você muito provavelmente seria um back-end!"
+  }
+}
