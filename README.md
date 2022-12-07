@@ -3,6 +3,6 @@
 
 ## Pré-visualização: 
 
-[ buzz feed]()
+[ buzz feed](https://vercel.com/rpatricia/desafio-angular-clone-buzz-fedd)
 
 ![preview](image/image-readme.png)
